@@ -1,4 +1,4 @@
-// Spread Operator -> ...
+// Spread Operator -> ... Usado para adionar os valores de um obejto ou lista em outro objeto
 
 // let primeiros = [1, 2, 3];
 
