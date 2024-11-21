@@ -1,0 +1,13 @@
+Yarn -> Gerenciador de pacotes do JavaScript
+npm install --global yarn
+
+npx crate-react-app primeiro-app // Criar projeto
+
+npm start // inicializar projeto
+
+export default App; // Usadoo no App.js para exportar as propriedade do arquivo para outros que desejam utiliza-lo
+
+OBS: Sempre criar varios componentes dentro de outros componentes para deixar o codigo separado e de facil manutenção
+
+useState // Usado na aplicação para alterar os valores de nossas propriedades diante de uma entrada colhida na tela
+import {useState} from 'react';
